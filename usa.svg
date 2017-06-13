@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1093px" height="717px" viewBox="0 0 1093 717" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="175.641289 37.8839158 169.2297 63.6585033 146.853255 49.1683123 135.69709 49.1683123 129.285501 76.5457971 51 251.96687 71.7735481 404.81915 97.355788 417.706444 102.16448 459.57412 154.867741 459.57412 205.968104 498.171885 306.565935 507.853384 317.7221 559.338444 333.686956 570.62284 356.063401 548.118163 373.631155 556.132649 389.596011 630.122385 416.717033 647.818371 439.093478 605.950695 507.761595 556.068533 552.45037 576.970313 590.791672 580.176108 592.394569 556.068533 672.218852 557.67143 688.183708 575.367416 691.389502 615.568078 681.836235 638.072756 692.9924 676.670521 716.971742 676.670521 740.951085 639.675653 731.397817 621.979667 721.84455 583.381902 736.206509 539.911329 801.668832 483.617578 851.166299 469.127387 844.75471 422.45102 913.422827 348.397168 982.090945 337.112771 970.93478 298.579122 1038 259.981356 1038 208.496297 1031.58841 205.290503 1007.60907 213.304989 1004.40327 244.850006 924.707224 245.811745 862.258347 287.294725 764.225153 319.35267 748.580876 300.182019 793.077303 232.860335 771.085553 211.894439 756.146551 183.426985 725.178576 158.550019 691.517734 155.72892 627.914772 112.322463"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#3A3A3A" fill-rule="nonzero" xlink:href="#path-1"></use>
+            <g id="usa-flag" opacity="0.605581975" mask="url(#mask-2)">
+                <g transform="translate(35.000000, 38.000000)">
+                    <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="1215" height="639.677498"></rect>
+                    <rect id="stripe" fill="#B22234" fill-rule="nonzero" x="0" y="0" width="1215" height="49.2059614"></rect>
+                    <g id="stripe-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.000000, 98.411923)">
+                        <rect id="stripe" fill="#B22234" fill-rule="nonzero" x="0" y="0" width="1215" height="49.2059614"></rect>
+                    </g>
+                    <g id="stripe-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.000000, 196.823846)">
+                        <rect id="stripe" fill="#B22234" fill-rule="nonzero" x="0" y="0" width="1215" height="49.2059614"></rect>
+                    </g>
+                    <g id="stripe-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.000000, 295.235768)">
+                        <rect id="stripe" fill="#B22234" fill-rule="nonzero" x="0" y="0" width="1215" height="49.2059614"></rect>
+                    </g>
+                    <g id="stripe-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.000000, 393.647691)">
+                        <rect id="stripe" fill="#B22234" fill-rule="nonzero" x="0" y="0" width="1215" height="49.2059614"></rect>
+                    </g>
+                    <g id="stripe-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.000000, 492.059614)">
+                        <rect id="stripe" fill="#B22234" fill-rule="nonzero" x="0" y="0" width="1215" height="49.2059614"></rect>
+                    </g>
+                    <g id="stripe-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.000000, 590.471537)">
+                        <rect id="stripe" fill="#B22234" fill-rule="nonzero" x="0" y="0" width="1215" height="49.2059614"></rect>
+                    </g>
+                    <rect id="Rectangle-path" fill="#3C3B6E" fill-rule="nonzero" x="0" y="0" width="486" height="344.44173"></rect>
+                    <g id="star-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(8.731275, 34.771885)">
+                        <polygon id="star" fill="#FFFFFF" fill-rule="nonzero" points="8.38921741 40.8838206 13.451989 25.2972471 0.197482412 15.6642141 16.580954 15.6642145 21.6437247 0.0776411024 26.7064961 15.6642148 43.0899668 15.6642152 29.8354604 25.2972471 34.8982311 40.8838206 21.6437247 31.2507879"></polygon>
+                    </g>
+                    <g id="star-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(69.481275, 34.771885)">
+                        <polygon id="star" fill="#FFFFFF" fill-rule="nonzero" points="8.38921741 40.8838206 13.451989 25.2972471 0.197482412 15.6642141 16.580954 15.6642145 21.6437247 0.0776411024 26.7064961 15.6642148 43.0899668 15.6642152 29.8354604 25.2972471 34.8982311 40.8838206 21.6437247 31.2507879"></polygon>
+                    </g>
+                    <g id="star-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(130.231275, 34.771885)">
+                        <polygon id="star" fill="#FFFFFF" fill-rule="nonzero" points="8.38921741 40.8838206 13.451989 25.2972471 0.197482412 15.6642141 16.580954 15.6642145 21.6437247 0.0776411024 26.7064961 15.6642148 43.0899668 15.6642152 29.8354604 25.2972471 34.8982311 40.8838206 21.6437247 31.2507879"></polygon>
+                    </g>
+                    <g id="star-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(190.981275, 34.771885)">
+                        <polygon id="star" fill="#FFFFFF" fill-rule="nonzero" points="8.38921741 40.8838206 13.451989 25.2972471 0.197482412 15.6642141 16.580954 15.6642145 21.6437247 0.0776411024 26.7064961 15.6642148 43.0899668 15.6642152 29.8354604 25.2972471 34.8982311 40.8838206 21.6437247 31.2507879"></polygon>
+                    </g>
+                    <g id="star-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(251.731275, 34.771885)">
+                        <polygon id="star" fill="#FFFFFF" fill-rule="nonzero" points="8.38921741 40.8838206 13.451989 25.2972471 0.197482412 15.6642141 16.580954 15.6642145 21.6437247 0.0776411024 26.7064961 15.6642148 43.0899668 15.6642152 29.8354604 25.2972471 34.8982311 40.8838206 21.6437247 31.2507879"></polygon>
+                    </g>
+                    <g id="star-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(312.481275, 34.771885)">
+                        <polygon id="star" fill="#FFFFFF" fill-rule="nonzero" points="8.38921741 40.8838206 13.451989 25.2972471 0.197482412 15.6642141 16.580954 15.6642145 21.6437247 0.0776411024 26.7064961 15.6642148 43.0899668 15.6642152 29.8354604 25.2972471 34.8982311 40.8838206 21.6437247 31.2507879"></polygon>
+                    </g>
+                    <g id="star-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(373.231275, 34.771885)">
+                        <polygon id="star" fill="#FFFFFF" fill-rule="nonzero" points="8.38921741 40.8838206 13.451989 25.2972471 0.197482412 15.6642141 16.580954 15.6642145 21.6437247 0.0776411024 26.7064961 15.6642148 43.0899668 15.6642152 29.8354604 25.2972471 34.8982311 40.8838206 21.6437247 31.2507879"></polygon>
+                    </g>
+                    <g id="star-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(433.981275, 34.771885)">
+                        <polygon id="star" fill="#FFFFFF" fill-rule="nonzero" points="8.38921741 40.8838206 13.451989 25.2972471 0.197482412 15.6642141 16.580954 15.6642145 21.6437247 0.0776411024 26.7064961 15.6642148 43.0899668 15.6642152 29.8354604 25.2972471 34.8982311 40.8838206 21.6437247 31.2507879"></polygon>
+                    </g>
+                    <g id="star-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(8.731275, 149.586123)">
+                        <polygon id="star" fill="#FFFFFF" fill-rule="nonzero" points="8.38921741 40.8838206 13.451989 25.2972471 0.197482412 15.6642141 16.580954 15.6642145 21.6437247 0.0776411024 26.7064961 15.6642148 43.0899668 15.6642152 29.8354604 25.2972471 34.8982311 40.8838206 21.6437247 31.2507879"></polygon>
+                    </g>
+                    <g id="star-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(69.481275, 149.586123)">
+                        <polygon id="star" fill="#FFFFFF" fill-rule="nonzero" points="8.38921741 40.8838206 13.451989 25.2972471 0.197482412 15.6642141 16.580954 15.6642145 21.6437247 0.0776411024 26.7064961 15.6642148 43.0899668 15.6642152 29.8354604 25.2972471 34.8982311 40.8838206 21.6437247 31.2507879"></polygon>
+                    </g>
+                    <g id="star-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(130.231275, 149.586123)">
+                        <polygon id="star" fill="#FFFFFF" fill-rule="nonzero" points="8.38921741 40.8838206 13.451989 25.2972471 0.197482412 15.6642141 16.580954 15.6642145 21.6437247 0.0776411024 26.7064961 15.6642148 43.0899668 15.6642152 29.8354604 25.2972471 34.8982311 40.8838206 21.6437247 31.2507879"></polygon>
+                    </g>
+                    <g id="star-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(190.981275, 149.586123)">
+                        <polygon id="star" fill="#FFFFFF" fill-rule="nonzero" points="8.38921741 40.8838206 13.451989 25.2972471 0.197482412 15.6642141 16.580954 15.6642145 21.6437247 0.0776411024 26.7064961 15.6642148 43.0899668 15.6642152 29.8354604 25.2972471 34.8982311 40.8838206 21.6437247 31.2507879"></polygon>
+                    </g>
+                    <g id="star-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(251.731275, 149.586123)">
+                        <polygon id="star" fill="#FFFFFF" fill-rule="nonzero" points="8.38921741 40.8838206 13.451989 25.2972471 0.197482412 15.6642141 16.580954 15.6642145 21.6437247 0.0776411024 26.7064961 15.6642148 43.0899668 15.6642152 29.8354604 25.2972471 34.8982311 40.8838206 21.6437247 31.2507879"></polygon>
+                    </g>
+                    <g id="star-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(312.481275, 149.586123)">
+                        <polygon id="star" fill="#FFFFFF" fill-rule="nonzero" points="8.38921741 40.8838206 13.451989 25.2972471 0.197482412 15.6642141 16.580954 15.6642145 21.6437247 0.0776411024 26.7064961 15.6642148 43.0899668 15.6642152 29.8354604 25.2972471 34.8982311 40.8838206 21.6437247 31.2507879"></polygon>
+                    </g>
+                    <g id="star-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(373.231275, 149.586123)">
+                        <polygon id="star" fill="#FFFFFF" fill-rule="nonzero" points="8.38921741 40.8838206 13.451989 25.2972471 0.197482412 15.6642141 16.580954 15.6642145 21.6437247 0.0776411024 26.7064961 15.6642148 43.0899668 15.6642152 29.8354604 25.2972471 34.8982311 40.8838206 21.6437247 31.2507879"></polygon>
+                    </g>
+                    <g id="star-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(433.981275, 149.586123)">
+                        <polygon id="star" fill="#FFFFFF" fill-rule="nonzero" points="8.38921741 40.8838206 13.451989 25.2972471 0.197482412 15.6642141 16.580954 15.6642145 21.6437247 0.0776411024 26.7064961 15.6642148 43.0899668 15.6642152 29.8354604 25.2972471 34.8982311 40.8838206 21.6437247 31.2507879"></polygon>
+                    </g>
+                    <g id="star-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(8.731275, 264.400361)">
+                        <polygon id="star" fill="#FFFFFF" fill-rule="nonzero" points="8.38921741 40.8838206 13.451989 25.2972471 0.197482412 15.6642141 16.580954 15.6642145 21.6437247 0.0776411024 26.7064961 15.6642148 43.0899668 15.6642152 29.8354604 25.2972471 34.8982311 40.8838206 21.6437247 31.2507879"></polygon>
+                    </g>
+                    <g id="star-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(69.481275, 264.400361)">
+                        <polygon id="star" fill="#FFFFFF" fill-rule="nonzero" points="8.38921741 40.8838206 13.451989 25.2972471 0.197482412 15.6642141 16.580954 15.6642145 21.6437247 0.0776411024 26.7064961 15.6642148 43.0899668 15.6642152 29.8354604 25.2972471 34.8982311 40.8838206 21.6437247 31.2507879"></polygon>
+                    </g>
+                    <g id="star-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(130.231275, 264.400361)">
+                        <polygon id="star" fill="#FFFFFF" fill-rule="nonzero" points="8.38921741 40.8838206 13.451989 25.2972471 0.197482412 15.6642141 16.580954 15.6642145 21.6437247 0.0776411024 26.7064961 15.6642148 43.0899668 15.6642152 29.8354604 25.2972471 34.8982311 40.8838206 21.6437247 31.2507879"></polygon>
+                    </g>
+                    <g id="star-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(190.981275, 264.400361)">
+                        <polygon id="star" fill="#FFFFFF" fill-rule="nonzero" points="8.38921741 40.8838206 13.451989 25.2972471 0.197482412 15.6642141 16.580954 15.6642145 21.6437247 0.0776411024 26.7064961 15.6642148 43.0899668 15.6642152 29.8354604 25.2972471 34.8982311 40.8838206 21.6437247 31.2507879"></polygon>
+                    </g>
+                    <g id="star-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(251.731275, 264.400361)">
+                        <polygon id="star" fill="#FFFFFF" fill-rule="nonzero" points="8.38921741 40.8838206 13.451989 25.2972471 0.197482412 15.6642141 16.580954 15.6642145 21.6437247 0.0776411024 26.7064961 15.6642148 43.0899668 15.6642152 29.8354604 25.2972471 34.8982311 40.8838206 21.6437247 31.2507879"></polygon>
+                    </g>
+                    <g id="star-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(312.481275, 264.400361)">
+                        <polygon id="star" fill="#FFFFFF" fill-rule="nonzero" points="8.38921741 40.8838206 13.451989 25.2972471 0.197482412 15.6642141 16.580954 15.6642145 21.6437247 0.0776411024 26.7064961 15.6642148 43.0899668 15.6642152 29.8354604 25.2972471 34.8982311 40.8838206 21.6437247 31.2507879"></polygon>
+                    </g>
+                    <g id="star-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(373.231275, 264.400361)">
+                        <polygon id="star" fill="#FFFFFF" fill-rule="nonzero" points="8.38921741 40.8838206 13.451989 25.2972471 0.197482412 15.6642141 16.580954 15.6642145 21.6437247 0.0776411024 26.7064961 15.6642148 43.0899668 15.6642152 29.8354604 25.2972471 34.8982311 40.8838206 21.6437247 31.2507879"></polygon>
+                    </g>
+                    <g id="star-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(433.981275, 264.400361)">
+                        <polygon id="star" fill="#FFFFFF" fill-rule="nonzero" points="8.38921741 40.8838206 13.451989 25.2972471 0.197482412 15.6642141 16.580954 15.6642145 21.6437247 0.0776411024 26.7064961 15.6642148 43.0899668 15.6642152 29.8354604 25.2972471 34.8982311 40.8838206 21.6437247 31.2507879"></polygon>
+                    </g>
+                    <g id="star-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(39.106275, 92.179496)">
+                        <polygon id="star" fill="#FFFFFF" fill-rule="nonzero" points="8.38921741 40.8838206 13.451989 25.2972471 0.197482412 15.6642141 16.580954 15.6642145 21.6437247 0.0776411024 26.7064961 15.6642148 43.0899668 15.6642152 29.8354604 25.2972471 34.8982311 40.8838206 21.6437247 31.2507879"></polygon>
+                    </g>
+                    <g id="star-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(99.856275, 92.179496)">
+                        <polygon id="star" fill="#FFFFFF" fill-rule="nonzero" points="8.38921741 40.8838206 13.451989 25.2972471 0.197482412 15.6642141 16.580954 15.6642145 21.6437247 0.0776411024 26.7064961 15.6642148 43.0899668 15.6642152 29.8354604 25.2972471 34.8982311 40.8838206 21.6437247 31.2507879"></polygon>
+                    </g>
+                    <g id="star-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(160.606275, 92.179496)">
+                        <polygon id="star" fill="#FFFFFF" fill-rule="nonzero" points="8.38921741 40.8838206 13.451989 25.2972471 0.197482412 15.6642141 16.580954 15.6642145 21.6437247 0.0776411024 26.7064961 15.6642148 43.0899668 15.6642152 29.8354604 25.2972471 34.8982311 40.8838206 21.6437247 31.2507879"></polygon>
+                    </g>
+                    <g id="star-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(221.356275, 92.179496)">
+                        <polygon id="star" fill="#FFFFFF" fill-rule="nonzero" points="8.38921741 40.8838206 13.451989 25.2972471 0.197482412 15.6642141 16.580954 15.6642145 21.6437247 0.0776411024 26.7064961 15.6642148 43.0899668 15.6642152 29.8354604 25.2972471 34.8982311 40.8838206 21.6437247 31.2507879"></polygon>
+                    </g>
+                    <g id="star-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(282.106275, 92.179496)">
+                        <polygon id="star" fill="#FFFFFF" fill-rule="nonzero" points="8.38921741 40.8838206 13.451989 25.2972471 0.197482412 15.6642141 16.580954 15.6642145 21.6437247 0.0776411024 26.7064961 15.6642148 43.0899668 15.6642152 29.8354604 25.2972471 34.8982311 40.8838206 21.6437247 31.2507879"></polygon>
+                    </g>
+                    <g id="star-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(342.856275, 92.179496)">
+                        <polygon id="star" fill="#FFFFFF" fill-rule="nonzero" points="8.38921741 40.8838206 13.451989 25.2972471 0.197482412 15.6642141 16.580954 15.6642145 21.6437247 0.0776411024 26.7064961 15.6642148 43.0899668 15.6642152 29.8354604 25.2972471 34.8982311 40.8838206 21.6437247 31.2507879"></polygon>
+                    </g>
+                    <g id="star-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(403.606275, 92.179496)">
+                        <polygon id="star" fill="#FFFFFF" fill-rule="nonzero" points="8.38921741 40.8838206 13.451989 25.2972471 0.197482412 15.6642141 16.580954 15.6642145 21.6437247 0.0776411024 26.7064961 15.6642148 43.0899668 15.6642152 29.8354604 25.2972471 34.8982311 40.8838206 21.6437247 31.2507879"></polygon>
+                    </g>
+                    <g id="star-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(39.106275, 206.992750)">
+                        <polygon id="star" fill="#FFFFFF" fill-rule="nonzero" points="8.38921741 40.8838206 13.451989 25.2972471 0.197482412 15.6642141 16.580954 15.6642145 21.6437247 0.0776411024 26.7064961 15.6642148 43.0899668 15.6642152 29.8354604 25.2972471 34.8982311 40.8838206 21.6437247 31.2507879"></polygon>
+                    </g>
+                    <g id="star-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(99.856275, 206.992750)">
+                        <polygon id="star" fill="#FFFFFF" fill-rule="nonzero" points="8.38921741 40.8838206 13.451989 25.2972471 0.197482412 15.6642141 16.580954 15.6642145 21.6437247 0.0776411024 26.7064961 15.6642148 43.0899668 15.6642152 29.8354604 25.2972471 34.8982311 40.8838206 21.6437247 31.2507879"></polygon>
+                    </g>
+                    <g id="star-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(160.606275, 206.992750)">
+                        <polygon id="star" fill="#FFFFFF" fill-rule="nonzero" points="8.38921741 40.8838206 13.451989 25.2972471 0.197482412 15.6642141 16.580954 15.6642145 21.6437247 0.0776411024 26.7064961 15.6642148 43.0899668 15.6642152 29.8354604 25.2972471 34.8982311 40.8838206 21.6437247 31.2507879"></polygon>
+                    </g>
+                    <g id="star-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(221.356275, 206.992750)">
+                        <polygon id="star" fill="#FFFFFF" fill-rule="nonzero" points="8.38921741 40.8838206 13.451989 25.2972471 0.197482412 15.6642141 16.580954 15.6642145 21.6437247 0.0776411024 26.7064961 15.6642148 43.0899668 15.6642152 29.8354604 25.2972471 34.8982311 40.8838206 21.6437247 31.2507879"></polygon>
+                    </g>
+                    <g id="star-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(282.106275, 206.992750)">
+                        <polygon id="star" fill="#FFFFFF" fill-rule="nonzero" points="8.38921741 40.8838206 13.451989 25.2972471 0.197482412 15.6642141 16.580954 15.6642145 21.6437247 0.0776411024 26.7064961 15.6642148 43.0899668 15.6642152 29.8354604 25.2972471 34.8982311 40.8838206 21.6437247 31.2507879"></polygon>
+                    </g>
+                    <g id="star-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(342.856275, 206.992750)">
+                        <polygon id="star" fill="#FFFFFF" fill-rule="nonzero" points="8.38921741 40.8838206 13.451989 25.2972471 0.197482412 15.6642141 16.580954 15.6642145 21.6437247 0.0776411024 26.7064961 15.6642148 43.0899668 15.6642152 29.8354604 25.2972471 34.8982311 40.8838206 21.6437247 31.2507879"></polygon>
+                    </g>
+                    <g id="star-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(403.606275, 206.992750)">
+                        <polygon id="star" fill="#FFFFFF" fill-rule="nonzero" points="8.38921741 40.8838206 13.451989 25.2972471 0.197482412 15.6642141 16.580954 15.6642145 21.6437247 0.0776411024 26.7064961 15.6642148 43.0899668 15.6642152 29.8354604 25.2972471 34.8982311 40.8838206 21.6437247 31.2507879"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
